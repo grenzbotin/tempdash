@@ -1,0 +1,7 @@
+*.css
+*.svg
+*.json
+*.md
+*.log
+*.lock
+node_modules/*

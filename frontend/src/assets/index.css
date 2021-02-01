@@ -1,0 +1,20 @@
+.wrapper {
+  height: 555px;
+  position: relative;
+}
+
+.graphContainer {
+  height: 555px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  z-index: 0;
+}
+
+.secondGraph {
+  height: 555px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  z-index: 4;
+}
