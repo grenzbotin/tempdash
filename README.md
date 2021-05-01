@@ -1,4 +1,4 @@
-# TempDash <img src="frontend/misc/logo.png" height="40px" />
+# TempDash <img src="./misc/logo.png" height="40px" />
 
 TempDash is a dashboard application to monitor your (indoor) climate.
 
