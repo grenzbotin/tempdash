@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "https://grenzbotin.github.io/tempdash/",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
