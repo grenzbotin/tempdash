@@ -8,7 +8,7 @@ const generateDataForEvery10Minutes = (startDate: number, endDate: number): Data
   const timestamps = [];
   const unix10Minutes = 10 * 60;
   for (let i = startDate; i <= endDate; i += unix10Minutes) {
-    if (moment.unix(i) <= moment(new Date())) {
+    if (i <= moment(new Date()).unix()) {
       timestamps.push({
         key: i,
         humidity: getRandomNumber(30, 70, 0.1),

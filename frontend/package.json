@@ -20,6 +20,9 @@
     "react-scripts": "4.0.1",
     "save-svg-as-png": "^1.4.17"
   },
+  "resolutions": {
+    "react-spring": "9.0.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
