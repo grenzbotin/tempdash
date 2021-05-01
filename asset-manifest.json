@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8dbe48b4.chunk.css",
-    "main.js": "/static/js/main.f2489cbf.chunk.js",
-    "main.js.map": "/static/js/main.f2489cbf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cc85cbe0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cc85cbe0.js.map",
-    "static/css/2.e7beb7ae.chunk.css": "/static/css/2.e7beb7ae.chunk.css",
-    "static/js/2.1287f278.chunk.js": "/static/js/2.1287f278.chunk.js",
-    "static/js/2.1287f278.chunk.js.map": "/static/js/2.1287f278.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.e7beb7ae.chunk.css.map": "/static/css/2.e7beb7ae.chunk.css.map",
-    "static/css/main.8dbe48b4.chunk.css.map": "/static/css/main.8dbe48b4.chunk.css.map",
-    "static/js/2.1287f278.chunk.js.LICENSE.txt": "/static/js/2.1287f278.chunk.js.LICENSE.txt",
-    "static/media/diagram.4092e94e.svg": "/static/media/diagram.4092e94e.svg",
-    "static/media/vulpis.e855e0ee.svg": "/static/media/vulpis.e855e0ee.svg"
+    "main.css": "/tempdash/static/css/main.8dbe48b4.chunk.css",
+    "main.js": "/tempdash/static/js/main.04ad5fcd.chunk.js",
+    "main.js.map": "/tempdash/static/js/main.04ad5fcd.chunk.js.map",
+    "runtime-main.js": "/tempdash/static/js/runtime-main.d927d620.js",
+    "runtime-main.js.map": "/tempdash/static/js/runtime-main.d927d620.js.map",
+    "static/css/2.e7beb7ae.chunk.css": "/tempdash/static/css/2.e7beb7ae.chunk.css",
+    "static/js/2.25cdb660.chunk.js": "/tempdash/static/js/2.25cdb660.chunk.js",
+    "static/js/2.25cdb660.chunk.js.map": "/tempdash/static/js/2.25cdb660.chunk.js.map",
+    "index.html": "/tempdash/index.html",
+    "static/css/2.e7beb7ae.chunk.css.map": "/tempdash/static/css/2.e7beb7ae.chunk.css.map",
+    "static/css/main.8dbe48b4.chunk.css.map": "/tempdash/static/css/main.8dbe48b4.chunk.css.map",
+    "static/js/2.25cdb660.chunk.js.LICENSE.txt": "/tempdash/static/js/2.25cdb660.chunk.js.LICENSE.txt",
+    "static/media/diagram.4092e94e.svg": "/tempdash/static/media/diagram.4092e94e.svg",
+    "static/media/vulpis.e855e0ee.svg": "/tempdash/static/media/vulpis.e855e0ee.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc85cbe0.js",
+    "static/js/runtime-main.d927d620.js",
     "static/css/2.e7beb7ae.chunk.css",
-    "static/js/2.1287f278.chunk.js",
+    "static/js/2.25cdb660.chunk.js",
     "static/css/main.8dbe48b4.chunk.css",
-    "static/js/main.f2489cbf.chunk.js"
+    "static/js/main.04ad5fcd.chunk.js"
   ]
 }
