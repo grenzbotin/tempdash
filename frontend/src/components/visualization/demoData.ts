@@ -22,5 +22,5 @@ const generateDataForEvery10Minutes = (startDate: number, endDate: number): Data
 };
 
 export const generateDemoData = (startDate: number, endDate: number): DataProps => ({
-  value: [...generateDataForEvery10Minutes(startDate, endDate)]
+  value: generateDataForEvery10Minutes(startDate, endDate)
 });

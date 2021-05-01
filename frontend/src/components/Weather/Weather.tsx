@@ -43,7 +43,7 @@ const Weather = ({
         ) : (
           <>
             <div style={{ display: 'flex', alignItems: 'center' }}>
-              <Image width={50} src={`http://openweathermap.org/img/w/${data.weather[0].icon}.png`} preview={false} />
+              <Image width={50} src={`https://openweathermap.org/img/w/${data.weather[0].icon}.png`} preview={false} />
               <div style={{ display: 'flex', flexDirection: 'column' }}>
                 <div style={{ fontWeight: 700 }}>{data.weather[0].main ? data.weather[0].main : 'n/a'}</div>
                 <div style={{ fontStyle: 'italic' }}>

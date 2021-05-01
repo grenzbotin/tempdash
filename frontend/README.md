@@ -15,6 +15,11 @@ _Features_
 
 Currently supported sensor data: temperature, humidity
 
+_Known issues_
+
+- if the user requests a long time period, a lot of data is rendered in the charts - this causes some performance issues in the graph
+- if the user requests a long time period and tries to download the pdf, it takes a long time to be generated.
+
 ---
 
 ## Running the frontend application
