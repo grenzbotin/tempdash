@@ -19,16 +19,14 @@ jobs:
         with:
           node-version: 14.x
 
-      - name: Install NPM packages
-        run: npm install
-        working-directory: ./frontend
-
-      - name: Check for code format
-        run: npm run lint
+      - name: Install yarn and run linter
+        run: |
+          yarn
+          yarn lint
         working-directory: ./frontend
 
       - name: Build project
-        run: npm run build
+        run: yarn build
         env:
           REACT_APP_OPEN_WEATHER_CITY_IDS: 2885657,3214104
           REACT_APP_ROOMS: living_room,core
